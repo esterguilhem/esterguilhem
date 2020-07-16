@@ -1,5 +1,5 @@
 ### Olá, me chamo Ester ✨ 
-Eu amo Web-design e front-end, meu hobby é desenhar nas horas vagas, amo muito tudo que envolve tecnologia, e participo de projetos incentivando mulheres a entrar na àrea tecnológica ❤💪🏻
+Eu amo Web-design e front-end, meu hobby é desenhar nas horas vagas, amo muito tudo que envolve tecnologia, e participo de projetos incentivando mulheres a entrar na área tecnológica ❤💪🏻
 
 ### Curiosidades sobre mim 🤩
 
