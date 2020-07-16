@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá, me chamo Ester ✨ 
 
 <!--
 **esterguilhem/esterguilhem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Curiosidades sobre mim 🤩
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Tenho 20 anos 🦋
+- Estou no 4°Semestre de Eng. de Computação 💻
+- Sou Técnica em Informática 💻
+- Namoro 💕
+- Amo Gatinhos 😻
+- Web-Design e Fron-End é minha paixão 💘
+- Amo Tecnologia 💻
+- Amo desenhar 🎨
+- Sou super fã da Marvel 💘
+- Amo Rock 🤟🏻🖤
+- Sigam o meu projeto no instagram: https://www.instagram.com/oficial_mmt/ 
+
