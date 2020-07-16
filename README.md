@@ -6,6 +6,7 @@ Eu amo Web-design e front-end, meu hobby é desenhar nas horas vagas, amo muito 
 - Tenho 20 anos 🦋
 - Estou no 4°Semestre de Eng. de Computação 💻
 - Sou Técnica em Informática 💻
+- Sou estagiária de Web-Design na John Deere Brasil
 - Namoro 💕
 - Amo Gatinhos 😻
 - Nas horas vagas eu gosto de ler e assistir série 🤓
