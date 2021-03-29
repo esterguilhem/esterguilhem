@@ -12,7 +12,7 @@
   <img align="center" alt="Ester-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ester-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ester-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Ester-Node" height="40" width="50" src="https://www.flaticon.com/svg/vstatic/svg/919/919825.svg?token=exp=1617058190~hmac=29dfd6fb98f16aa8473850b0f53e9118">
+<img align="center" alt="Ester-Node" height="40" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   <img align="right" alt="Ester-Iron" height="150" width="250" src="https://media.giphy.com/media/AbYxDs20DECQw/giphy.gif">
 </div>
   
