@@ -1,27 +1,28 @@
 
-<img src= "https://pbs.twimg.com/profile_banners/1284231304519852032/1596800503/1500x500"></img>
+## Olá! Eu sou a Ester Pôrto 
+![enter image description here](https://camo.githubusercontent.com/e752029da12000a5092d5fd5ecd3d5c17261644aa38b6a8ad91d648f2256cb59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4b656e365967356e376259537457344a59422f67697068792e676966)
+<a href="https://github.com/esterportto"> 
+<p>Tenho 20 anos, Sou super fã da Marvel  💘, Amo Rock 🤟🏻🖤, sou técnica em informática e atualmente estudante do 5º semestre de Eng. de computação no Unisal -Campinas.  </p>
+<p> Sou estagiária na Bosch Campinas de Inovação e tecnologia.  Web-design e front-end é minha paixão, amo desenhar nas horas vagas,  sou apaixonada em  tudo que envolve tecnologia, e participo de projetos incentivando mulheres a entrar na área tecnológica ❤💪🏻 </p> 
 
-### Olá, me chamo Ester ✨ 
-Eu amo Web-design e front-end, meu hobby é desenhar nas horas vagas, amo muito tudo que envolve tecnologia, e participo de projetos incentivando mulheres a entrar na área tecnológica ❤💪🏻
-
-### Curiosidades sobre mim 🤩
-
-- Tenho 20 anos 🦋
-- Estou no 5°Semestre de Eng. de Computação 💻
-- Sou Técnica em Informática 💻
-- Sou estagiária de IoT na Bosch Brasil
-- Amo Gatinhos 😻
-- Nas horas vagas eu gosto de ler e assistir série 🤓
-- Minhas séries favoritas é Dark e B99 🎞
-- Web-Design e Fron-End é minha paixão 💘
-- Amo Tecnologia 💻
-- Amo desenhar 🎨
-- Sou super fã da Marvel 💘
-- Amo Rock 🤟🏻🖤
-- Sigam o meu projeto no instagram: https://www.instagram.com/oficial_mmt/ 
-
-<!--
-**esterguilhem/esterguilhem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=esterportto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=esterportto&layout=compact&langs_count=8&theme=dracula"/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ester-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ester-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ester-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ester-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Ester-Node" height="40" width="50" src="https://www.flaticon.com/svg/vstatic/svg/919/919825.svg?token=exp=1617058190~hmac=29dfd6fb98f16aa8473850b0f53e9118">
+  <img align="right" alt="Ester-Iron" height="150" width="250" src="https://media.giphy.com/media/AbYxDs20DECQw/giphy.gif">
+</div>
+  
+  #
+  
+  <div>
+  <a href="https://www.linkedin.com/in/esterportto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/esterportto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/oficial_mmt" target="_blank"><img src="https://img.shields.io/badge/-Projeto MMT-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
 
 
